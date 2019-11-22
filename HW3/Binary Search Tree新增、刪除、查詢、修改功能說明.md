@@ -6,3 +6,5 @@
 * BST的Search()操作，便是根據BST的特徵：Key(L)<Key(Current)<Key(R)，判斷Current應該往left subtree走，還是往right subtree走。
 # 修改
 * 給一個target後，把重複的節點換成另一個數值，改完後依照BTS的規則排序好。
+
+* ref:http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
