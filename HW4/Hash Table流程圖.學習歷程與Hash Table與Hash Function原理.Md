@@ -8,6 +8,7 @@
  <img src='https://github.com/LPT0423/LPT/blob/master/image/Hash%20Table.jpg' height=400 weight =400>
  
  # 學習歷程
+ * 一開始覺得這次作業好像有比較簡單，所以想說會比較輕鬆，但是實際寫下來發現還是蠻多地方要加強，我的觀念還是很不足，希望再接再厲，之後的作業也要更加點油
 
 
 * 參考資料:https://www.youtube.com/watch?v=O4dGJZ4J0Bk https://www.youtube.com/watch?v=aZVNWYSR_sY https://www.youtube.com/watch?v=Ke_tII6Y0GE
