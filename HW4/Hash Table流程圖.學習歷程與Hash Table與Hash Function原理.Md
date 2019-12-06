@@ -6,6 +6,8 @@
 # 流程圖
 
  <img src='https://github.com/LPT0423/LPT/blob/master/image/Hash%20Table.jpg' height=400 weight =400>
+ 
+ # 學習歷程
 
 
 * 參考資料:https://www.youtube.com/watch?v=O4dGJZ4J0Bk https://www.youtube.com/watch?v=aZVNWYSR_sY https://www.youtube.com/watch?v=Ke_tII6Y0GE
