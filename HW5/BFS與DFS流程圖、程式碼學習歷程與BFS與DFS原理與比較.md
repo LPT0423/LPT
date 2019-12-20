@@ -14,3 +14,7 @@
 
 * 時間複雜度
 * 最差情形下，BFS必須尋找所有到可能節點的所有路徑，因此其時間複雜度為{\displaystyle O(|V|+|E|)}{\displaystyle O(|V|+|E|)}，其中{\displaystyle |V|}{\displaystyle |V|}是節點的數目，而{\displaystyle |E|}{\displaystyle |E|}是圖中邊的數目。
+
+# 流程圖
+
+<img src='https://github.com/LPT0423/LPT/blob/master/image/Hash%20Table.jpg' height=400 weight =400>
